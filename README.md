@@ -1,12 +1,12 @@
-#Online Retail Datenanalyse – Detaillierte Beschreibung
+# Online Retail Datenanalyse – Detaillierte Beschreibung
 
 Dieses Projekt basiert auf dem bekannten Online Retail Datensatz, der Transaktionsdaten eines Online-Händlers enthält. Ziel ist es, mithilfe von Excel eine umfassende Datenanalyse durchzuführen und wichtige betriebswirtschaftliche Kennzahlen abzuleiten.
 
-##Excel-Funktionen und Datenaufbereitung
+## Excel-Funktionen und Datenaufbereitung
 
 Zur Analyse des Datensatzes wurden verschiedene grundlegende und bedingte Excel-Funktionen eingesetzt.
 
-Verwendete Funktionen:
+### Verwendete Funktionen:
 
 Zählfunktionen: COUNT, COUNTA, COUNTBLANK zur Überprüfung der Datenvollständigkeit
 
@@ -16,7 +16,7 @@ Textfunktionen: CONCATENATE, TEXTJOIN, LEFT, RIGHT, EXACT zur Bereinigung und Ve
 
 Diese Schritte bilden die Grundlage für eine strukturierte und saubere Datenanalyse.
 
-##Kundenanalyse
+## Kundenanalyse
 
 Im Rahmen der Kundenanalyse wurde die Anzahl eindeutiger Kunden ermittelt.
 Zusätzlich wurden folgende Kennzahlen analysiert:
@@ -29,7 +29,7 @@ Unterschiede im Kaufverhalten zwischen Kunden
 
 Diese Analyse ermöglicht ein besseres Verständnis der Kundenstruktur.
 
-##Umsatz- und Bestellanalyse
+## Umsatz- und Bestellanalyse
 
 Der Umsatz pro Bestellung wurde als Produkt aus Quantity × UnitPrice berechnet.
 
@@ -45,7 +45,7 @@ Durchschnittlicher Umsatz pro Bestellung
 
 Diese Ergebnisse liefern Einblicke in die wirtschaftliche Leistung des Online-Shops.
 
-##Zeitliche Analyse
+## Zeitliche Analyse
 
 Die zeitliche Analyse untersucht das Bestellverhalten über den gesamten Beobachtungszeitraum.
 
@@ -61,7 +61,7 @@ Entwicklung der Bestellhäufigkeit
 
 Ermittlung des umsatzstärksten Tages
 
-##Höchster Tagesumsatz
+## Höchster Tagesumsatz
 
 Für jeden Kalendertag wurde der Datensatz mit dem höchsten Umsatz identifiziert.
 
@@ -75,7 +75,7 @@ Filterung des jeweils höchsten Umsatzes pro Tag
 
 Diese Analyse hebt besonders erfolgreiche Verkaufstage hervor.
 
-##Statistische Analyse und Ausreißer
+## Statistische Analyse und Ausreißer
 
 Zur Bewertung der Datenqualität und Streuung wurden folgende statistische Kennzahlen berechnet:
 
@@ -93,7 +93,7 @@ Interquartilsabstand (IQR)
 
 Zusätzlich wurden Ausreißer für Preise, Mengen und Umsätze mithilfe von Upper- und Lower-Limits identifiziert.
 
-##Ziel des Projekts
+## Ziel des Projekts
 
 Ziel dieses Projekts ist es:
 
