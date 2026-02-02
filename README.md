@@ -1,4 +1,4 @@
-# Online Retail Datenanalyse – Detaillierte Beschreibung
+# Online Retail Datenanalyse
 
 Dieses Projekt basiert auf dem bekannten Online Retail Datensatz, der Transaktionsdaten eines Online-Händlers enthält. Ziel ist es, mithilfe von Excel eine umfassende Datenanalyse durchzuführen und wichtige betriebswirtschaftliche Kennzahlen abzuleiten.
 
